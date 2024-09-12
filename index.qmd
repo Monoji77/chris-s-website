@@ -7,3 +7,4 @@ Hi, my name is Chris Yong. I am an exchange student from National University of 
 ```{r}
 
 ```
+6
