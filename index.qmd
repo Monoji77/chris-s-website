@@ -1,0 +1,9 @@
+---
+title: "chris's website"
+---
+
+Hi, my name is Chris Yong. I am an exchange student from National University of Singapore, taking a bunch of nice statistics courses in UTSG. In enjoy travelling and gymming.
+
+```{r}
+
+```
